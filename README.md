@@ -34,4 +34,5 @@ This project provides a demo bundle that includes Apache DeviceMap (the ddr modu
         cd devicemap-demo/
         mvn clean package sling:install
 
-* Go to http://<your_server>:8080/content/demo/index.html with various devices
+* Go to [http://localhost:8080/content/demo/index.html](http://localhost:8080/content/demo/index.html) with various devices
+
